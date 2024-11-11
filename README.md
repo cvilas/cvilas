@@ -1,4 +1,5 @@
-### cvilas - Vilas Chitrakaran 
+### Vilas Chitrakaran 
+#### Principal Roboticist
 
 I engineer industrial robots and autonomous systems. I am available for consultancy and mentoring.
 
