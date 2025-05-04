@@ -1,9 +1,9 @@
 ### cvilas - Vilas Chitrakaran 
-Technical Advisor | Chartered Engineer | Roboticist
+Pricipal Roboticist | Chartered Engineer | Technical Advisor
 
-I engineer robots and autonomous systems for manufacturing, nuclear, aerospace, defense and consumer electronics applications.
+I have decades of experience in engineering robots and autonomous systems for manufacturing, nuclear, aerospace, defense and consumer electronics applications.
 
-I am available for consultancy and mentoring.
+Please get in touch for engineering design consultancy, contract software/hardware development and mentoring.
 
 - [Guidance](https://github.com/cvilas/guidance)
 - [Demo](https://github.com/cvilas/grape)
